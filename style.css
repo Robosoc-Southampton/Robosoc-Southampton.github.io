@@ -1,0 +1,84 @@
+
+html {
+	scroll-behavior: smooth;
+}
+
+/** General style overrides. */
+html, body {
+	width: 100%;
+	border: 0;
+	padding: 0;
+	margin: 0;
+	color: #111;
+
+	/** Variables */
+	--robosoc-blue: #09d;
+	--robosoc-blue-dark: #059;
+}
+
+h1, h2 {
+	margin: 0;
+	font-weight: 400;
+	color: var(--robosoc-blue);
+}
+
+/** Text **********************************************************************/
+a {
+	color: var(--robosoc-blue);
+	text-decoration: none;
+}
+
+a:hover {
+	color: var(--robosoc-blue-dark);
+}
+
+/** Layout */
+section {
+	padding: 16px 32px;
+}
+
+section .section-content {
+	width: 100%;
+}
+
+@media only screen and (min-width: 604px) {
+	section .section-content {
+		margin-left: auto;
+		margin-right: auto;
+		width: 540px;
+	}
+}
+
+/** Sections ******************************************************************/
+header {
+	display: block;
+	padding: 16px 32px;
+}
+
+header h1 {
+	display: inline-block;
+}
+
+header ul {
+	float: right;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+header li {
+	display: inline-block;
+}
+
+header li a {
+	padding: 0 8px;
+}
+
+section:nth-child(even) {
+	background-color: var(--robosoc-blue);
+	color: white;
+}
+
+section:nth-child(even) h2 {
+	color: white;
+}

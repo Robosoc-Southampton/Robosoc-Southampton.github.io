@@ -1,0 +1,59 @@
+Sections of text from the old website, to be included in this one
+=================================================================
+
+BUILD AND TEST
+We'll help you design, build and drive your robots from scratch in a friendly environment.
+
+COMPETITIONS
+Throughout the year, we participate in several competitions across the country. Join in the fun!
+
+Connect With Us
+
+USE OUR EQUIPMENT
+Society members can use our components to help make their projects successful
+
+ENTER INTO COMPETITIONS
+Members can enter into the EuroBot, SumoBot and Booty Bots competitions that take place throughout the year.
+
+NOT A MEMBER?
+Any Southampton University student is welcome can become a member of the society for £15 per academic year. Membership must be bought through the SUSU Website.
+
+All documents related to any  project or competition should be saved to our GitHub, so we can keep track of changes
+
+Every year we do new and interesting projects based on what our members want to do. We have a few that run every year organized by the committee, and others that are purly based on student ideas.
+Whatever you want to do you can find it here!
+
+BOOTY BOTS
+Our newest entry to our growing list of projects is our very own football robot competition. We'll be inviting other uni's to come together and play for the cup!
+
+EUROBOT
+Every year we enter the Euro Bots competition to compete against other universities in a series of challenges to score the most points using autonomous bots.
+
+SUMOBOT
+Ever wanted to get in the ring, but not get hurt? Well here's the project for you, this new competition set up by imperial college last year to build small RC bots for pushing each other around.
+
+UAV PROJECT
+We're aiming to build a solar powered drone!
+Link to the GitHub for the project: https://github.com/Robosoc-Southampton/UAV 
+Discord for work on the project https://discord.gg/7VZyKNw
+
+NOTHING YOU LIKE?
+Maybe none of these projects sparks your interest, or you have your own idea and want to do that. Great, come talk to a committee member and we can help you get started and maybe find others who want to help you.
+
+New to robotics? Come along to our weekly tutorials throughout the first semester to learn all the skills that you will need. Throughout the tutorials, we will be teaching you the best coding and design processes that we use throughout our process. We will use these to guide you through the process of making a simple remote-controlled robot. 
+New members do not need to take part in tutorials if they already have the prior knowledge. The weekly session runs as normal in parallel to the tutorials, allowing those comfortable with their abilities to work on competition entries and/or projects.
+Tutorials will begin on Tuesday 8th October, at our first weekly meeting. You will not need a membership for the first couple of tutorials. 
+All of the documents that you will need will be posted on the tutorial section of our GitHub. This includes written explanations, cheat sheets, any presentations that we give and any code scripts that we will be using.
+
+When starting on the Arduino's, we will be using the Arduino developed IDE to write our code. We will also be using the in-built compiler to put the code onto the Arduino and the serial communication interface to be able to read debugging messages. 
+Use the button to go to the Arduino website. Only the IDE needs to be downloaded. Follow the links and instructions to install the software.
+
+Your early robots will be remote-controlled via Bluetooth. Your phone will act as the controller to allow you to drive your robots around.
+For Android phones, we recommend using the Android Bluetooth app, which can be downloaded from the link below. For IOS phones, we recommend ArduinoBlue which can be found at   https://apps.apple.com/us/app/arduinoblue/id1340487989 
+
+To design custom robots. you will be using the Solidworks CAD software. We will teach you how to design all the necessary parts to build a robot, and explain how to design parts with the manufacturing process in mind.
+This highly capable software if free to download for engineering University of Southampton students. Click the link and follow the instructions on the University software download page to  download the full Solidworks Engineering Kit. 
+
+We hold a weekly society meeting on Tuesdays in Bouldrewood. Come along and see what were up to.
+Design Studio, Building 177, Boldrewood Campus, Bassett Crescent East, Southampton, England SO16 7PN, United Kingdom
+
